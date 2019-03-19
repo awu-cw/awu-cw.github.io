@@ -1156,4 +1156,18 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
-	
+
+.logo {
+	margin: 0 4px 4px;
+	width: 32px;
+	height: 32px;
+}
+
+.cp {
+	opacity: 0.05;
+	transition: opacity 0.66s;
+}
+
+.cp:hover {
+	opacity: 1;
+}
